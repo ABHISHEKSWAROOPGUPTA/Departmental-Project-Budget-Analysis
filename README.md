@@ -1,14 +1,14 @@
 # Departmental Project & Budget Analysis
-Welcome to the Departmental Project & Budget Dashboard repository! This project leverages SQL and Power BI to analyze departmental budgets, project completions, employee distributions, and workload management. The dashboard aims to provide insights into project efficiency and budget utilization to improve organizational performance.
+Welcome to the Departmental Project & Budget Analysis repository! This project leverages SQL and Power BI to analyze departmental budgets, project completions, employee distributions, and workload management. The dashboard aims to provide insights into project efficiency and budget utilization to improve organizational performance.
 
 ## Introduction
-The **Departmental Project & Budget Dashboard** was created to help organizations track their departmental project performance, budget usage, and workforce distribution. By visualizing key metrics such as project completion rates, budget utilization, and employee involvement, this project aims to provide meaningful insights to support decision-making and improve productivity.
+The **Departmental Project & Budget Analysis** was created to help organizations track their departmental project performance, budget usage, and workforce distribution. By visualizing key metrics such as project completion rates, budget utilization, and employee involvement, this project aims to provide meaningful insights to support decision-making and improve productivity.
 
 ## Situation
 The objective was to create a comprehensive dashboard using SQL and Power BI to understand how departments manage their resources, complete projects, and utilize their budgets. The data analysis also highlights areas where improvements can be made in project completion rates and workforce management.
 
 ## Problem Statement
-The **Departmental Project & Budget Dashboard** was designed to address several critical business questions:
+The **Departmental Project & Budget Analysis** was designed to address several critical business questions:
 
 ##### 1. How effectively are departments utilizing their budgets for completed projects?
 ##### 2. Which departments have the highest employee involvement in projects?
@@ -47,7 +47,7 @@ Developed a comprehensive Power BI dashboard that visualizes data related to dep
 - Built an interactive Power BI dashboard to present key insights.
 
 ## Result
-The **Departmental Project & Budget Dashboard** offers the following insights:
+The **Departmental Project & Budget Analysis** offers the following insights:
 
 #### Budget Management
 Visualizes how well departments are utilizing their budgets across completed and upcoming projects.
